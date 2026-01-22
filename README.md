@@ -1,0 +1,1 @@
+Built a Hibernate-based Java application implementing all core ORM relationship mappings.Demonstrated real-time entity associations using JPA annotations. Configured Hibernate using XML and handled transactions efficiently.
